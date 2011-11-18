@@ -1,0 +1,10 @@
+<?php
+echo 'git add';
+
+echo 'git commit file';
+
+echo 'git rm file';
+
+echo 'git reset';
+
+?>
